@@ -83,6 +83,10 @@ class MainActivity : AppCompatActivity() {
 
                     });
         }
+        downBtn.setOnClickListener {
+          //上传
+
+        }
 
     }
 
