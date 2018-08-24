@@ -14,7 +14,7 @@
        	
 ## 第 2 步 添加依赖项
 	dependencies {
-	     compile 'com.github.victe2010:RetrofitTool:1.0'
+	     implementation 'com.github.victe2010:RetrofitUtils2:1.0'
 	}
 	
 ## 第 3 步 建议在Applicaiotn里面初始化，设置host
